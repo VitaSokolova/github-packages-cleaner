@@ -27,7 +27,7 @@ import kotlin.script.experimental.jvm.jvm
 // @KotlinScript annotation marks a script definition class
 @KotlinScript(
     // File extension for the script type
-    fileExtension = "scriptwithdeps.kts",
+    fileExtension = "cleaner.main.kts",
     // Compilation configuration for the script type
     compilationConfiguration = ScriptWithMavenDepsConfiguration::class
 )
