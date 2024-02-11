@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76adf1c8-98cc-407a-961c-0db2cf7b7db7" name="Changes" comment="renamed a variable">
-      <change afterPath="$PROJECT_DIR$/.idea/migrations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cleaner.main.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script-definition/src/test/java/Stubs.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/Stubs.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="76adf1c8-98cc-407a-961c-0db2cf7b7db7" name="Changes" comment="Added a script">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/host/src/main/kotlin/org/temper/works/host.kt" beforeDir="false" afterPath="$PROJECT_DIR$/host/src/main/kotlin/org/temper/works/host.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html.scriptwithdeps.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script-definition/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/script-definition/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script-definition/src/main/kotlin/org/temper/works/scriptDef.kt" beforeDir="false" afterPath="$PROJECT_DIR$/script-definition/src/main/kotlin/org/temper/works/scriptDef.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +169,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707601651818</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="renamed a variable">
+      <option name="closed" value="true" />
+      <created>1707603101282</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707603101282</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added a script">
+      <option name="closed" value="true" />
+      <created>1707603149457</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1707603149457</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,7 +249,8 @@
     <MESSAGE value="added arguments" />
     <MESSAGE value="final version" />
     <MESSAGE value="renamed a variable" />
-    <option name="LAST_COMMIT_MESSAGE" value="renamed a variable" />
+    <MESSAGE value="Added a script" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a script" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
